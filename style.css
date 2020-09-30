@@ -80,7 +80,7 @@ h2  /*thins h2 bigger + border modifications*/
   font-size: 1em;
 }
 
-div { /*forms the text's background */
+section { /*forms the text's background */
   text-align: left;
   margin: 5em;
   padding: .5em;
@@ -100,6 +100,6 @@ footer ul { /* for navigation links, remove the dots + no spaces*/
   list-style-type: none;
 }
 
-div dl dt{ /*makes the text bolder for that one descriptive list in about.html */
-  font-weight: bold;
+div dl dt{ /*makes the text slightly bolder for that one descriptive list in about.html */
+  font-weight: 900;
 }
