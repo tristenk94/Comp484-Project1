@@ -100,6 +100,6 @@ footer ul { /* for navigation links, remove the dots + no spaces*/
   list-style-type: none;
 }
 
-section dl dt{ /*makes the text bolder for that one descriptive list in about.html */
-  font-weight: bold;
+div dl dt{ /*makes the text slightly bolder for that one descriptive list in about.html */
+  font-weight: 900;
 }
