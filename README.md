@@ -4,6 +4,8 @@ bolbi world
   By: Tristen Khatibi
   Comp 484 Project 1
   dedicated to the best side character in Jimmy Neutron: Bolbi Stroganovsky 
+  
+https://comp484-project1-tk.glitch.me/
 
 sitemap
   index.html = the landing welcome page, (some quotes)
